@@ -1,0 +1,17 @@
+Détails du client :
+Nom : azer
+Prénom : jazi
+Age : 22
+Poids : 50.2
+Longueur : 183.0
+Sexe : M
+IMC : 15.0
+Conseil : Vous devez gagner du poids. Vous devriez prendre 17.0 kg pour avoir un IMC de 20.0.
+Voici un programme d'entraînement pour gagner du poids :
+- Faites de la musculation au moins 3 fois par semaine, en travaillant tous les groupes musculaires.
+- Augmentez progressivement l'intensité et la durée de vos séances.
+- Reposez-vous suffisamment entre les séances pour favoriser la récupération musculaire.
+- Consommez plus de calories que vous n'en dépensez, en privilégiant les aliments riches en protéines, en glucides et en lipides de bonne qualité.
+- Buvez beaucoup d'eau pour rester hydraté.
+
+phone:25849579
